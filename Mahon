@@ -52,6 +52,7 @@ typings/
 
 # Optional eslint cache
 .eslintcache
+# TypeScript cache
 
 # Microbundle cache
 .rpt2_cache/
