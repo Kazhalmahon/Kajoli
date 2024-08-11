@@ -98,6 +98,7 @@ dist
 
 # Serverless directories
 .serverless/
+# nyc test coverage
 
 # FuseBox cache
 .fusebox/
