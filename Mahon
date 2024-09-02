@@ -108,7 +108,6 @@ lib-cover it
 # TernJS port file
 .tern-port
 
-# macOS
 .DS_Store
 
 # python
