@@ -110,7 +110,6 @@ lib-cover it
 .tern-port
 
 .DS_Store
-.
 
 # python
 pycache/
